@@ -1,0 +1,53 @@
+body{
+    
+    background-color: #f0f0f0;
+}
+
+#principal{
+    
+    text-align: center;
+    font-family: monospace;
+    font-size: 12px;
+    background-color: burlywood;
+    color:black;
+    font-weight: bold;
+    padding:0px;
+    border-width: medium;
+    border-style: solid;
+    border-color:#f0f0f0;
+}
+
+#cabecalho1{
+    text-align: center;
+}
+
+#conteudo1{
+  
+    font-family: monospace;
+    font-size: 15px;
+    background-color: burlywood;
+    color:black;
+    font-weight: normal;
+    padding:15px;   
+    border-width: medium;
+    border-style: solid;
+    border-color:#f0f0f0;
+}
+
+#cabecalho2{
+    text-align: center;
+}
+
+#conteudo2{
+   
+    font-family: monospace;
+    font-size: 15px;
+    background-color: burlywood;
+    color:black;
+    font-weight: normal;
+    padding:15px;   
+    border-width: medium;
+    border-style: solid;
+    border-color:#f0f0f0;
+}
+
